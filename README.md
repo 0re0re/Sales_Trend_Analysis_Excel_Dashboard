@@ -95,7 +95,7 @@ Sales are almost evenly distributed:
 
 ## 📊 Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard%.png)
 
 ---
 
